@@ -1,0 +1,21 @@
+{
+  "name": "ficha3",
+  "version": "1.0.0",
+  "description": "ficha 3 programação 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+    
+  },
+  "keywords": [
+    "p3",
+    "nodejs",
+    "ficha3"
+  ],
+  "author": "Rafael Henriques",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+
+}
